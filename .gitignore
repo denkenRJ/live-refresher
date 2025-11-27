@@ -1,1 +1,8 @@
-.gitignore
+# Ignore temp and generated report folders
+*.tmp
+*_tmp/
+LiveReport_tmp/
+Dashboard/tmp/
+*.snapshot.jtl
+.DS_Store
+Thumbs.db
