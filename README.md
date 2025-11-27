@@ -1,3 +1,11 @@
+<!-- GitHub repo badges -->
+[![Release](https://img.shields.io/github/v/release/denkenRJ/live-refresher?label=release&style=flat-square)](https://github.com/denkenRJ/live-refresher/releases)
+[![License: MIT](https://img.shields.io/github/license/denkenRJ/live-refresher?style=flat-square)](https://github.com/denkenRJ/live-refresher/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/denkenRJ/live-refresher?style=social)](https://github.com/denkenRJ/live-refresher/stargazers)
+[![Issues](https://img.shields.io/github/issues/denkenRJ/live-refresher?style=flat-square)](https://github.com/denkenRJ/live-refresher/issues)
+[![PowerShell Version](https://img.shields.io/badge/PowerShell-%3E%3D5.1-blue?style=flat-square)](https://github.com/denkenRJ/live-refresher)
+
+
 # ⚡ Live JMeter HTML Dashboard Refresher  
 **Lightweight, zero-dependency live dashboard for JMeter**  
 _No Grafana. No Datadog. No InfluxDB. Just PowerShell + JMeter._
