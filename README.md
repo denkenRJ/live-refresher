@@ -5,6 +5,8 @@
 [![Issues](https://img.shields.io/github/issues/denkenRJ/live-refresher?style=flat-square)](https://github.com/denkenRJ/live-refresher/issues)
 [![PowerShell Version](https://img.shields.io/badge/PowerShell-%3E%3D5.1-blue?style=flat-square)](https://github.com/denkenRJ/live-refresher)
 
+![Live Refresher Demo](assets/live-refresher-demo.gif)
+
 
 # ⚡ Live JMeter HTML Dashboard Refresher  
 **Lightweight, zero-dependency live dashboard for JMeter**  
